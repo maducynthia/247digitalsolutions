@@ -1,0 +1,55 @@
+.gradient-background {
+    background: linear-gradient(300deg, #949797,rgb(193, 193, 252), #f0eeee);
+    background-size: 180% 180%;
+    animation: gradient-animation 20s ease infinite;
+  }  
+  .nav-link{
+    color: white;
+}
+.feature-icon{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.Creative {    
+    color: darkblue;
+        }
+.Solution {
+ color: red;
+            }
+.pb-2 {
+    color:darkblue;
+
+}
+.pb-3{
+    color: darkblue;
+    font-size: 16px;
+}
+.text {
+    text-align: justify;
+}
+.lead{
+   text-align: center;
+}
+
+.Contact {
+    margin-left: 3%;
+}
+.nav-link{
+    color: red;
+}
+.feature col{
+    color: darkblue;
+}
+
+.head{
+    color:darkblue;
+    text-size-adjust: 5px;
+}
+.sub2{
+    color: red;
+}
+.sub{
+    color: darkblue;
+}
